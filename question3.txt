@@ -1,0 +1,12 @@
+
+
+It's been a long time since I have had to write SQL statements.
+
+I Created a MySQL workbench model (eer file) that replicates the Tables you provided.
+
+I then had this model synchronized against a test MySQL database so I could run queries
+against it.
+
+Included the question3.sql file which shows my attempts at solving the questions.
+
+I currently don't have the bandwidth to work through them.
